@@ -52,6 +52,13 @@ h2 {
   border-radius: 10px;
   text-align: center;
 }
+.product-img {
+  width: 100px;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
 
 .product-card img {
   width: 100px;
