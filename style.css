@@ -4,6 +4,17 @@ body {
   background: #fff9f0;
   color: #333;
 }
+.hero {
+  background-color: #fff8f0;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.hero-img {
+  max-width: 200px;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+}
 
 header .top-bar {
   display: flex;
