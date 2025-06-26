@@ -124,12 +124,7 @@ footer {
   font-size: 16px;
   z-index: 999;
 }
-.contenido-centrado {
-  max-width: 800px;
-  margin: 0 auto;
-  text-align: center;
-  padding: 1.5rem 1rem;
-}
+
 
 .contenido-centrado {
   max-width: 900px;
